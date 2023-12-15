@@ -4,7 +4,8 @@ const app = createApp(App);
 // import './style.css'
 
 // 0. CSS引入
-import "./css/all.css";
+// import "./css/all.css";
+import "./scss/all.css";
 
 // 1. Bootstrap 引入
 import "/node_modules/bootstrap/scss/bootstrap.scss";
